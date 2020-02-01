@@ -1,0 +1,19 @@
+{
+  "name": "podcast-radio",
+  "version": "1.0.0",
+  "description": "IOT podcast radio",
+  "main": "index.js",
+  "dependencies": {
+    "loudness": "^0.3.0",
+    "mcp-spi-adc": "^3.0.0",
+    "onoff": "^5.0.1",
+    "play-sound": "^1.1.3",
+    "podcast-feed-parser": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
